@@ -17,7 +17,7 @@ The dataset for this competition (both train and test) was generated from a deep
 LightGBM regressor and classifier were applied to the dataset. LightGBM regressor scored higher than classifier with a quadratic weighted kappa score of **0.56474**. Cross validation technique was applied to fine tune the model.
 
 # Results:
-Following is the confusion matrix that was calculated after the application of final model.
+Following is the confusion matrix that was calculated after the application of the final model.
 
  ![Screenshot](ConfusionMatrix.png)
 
